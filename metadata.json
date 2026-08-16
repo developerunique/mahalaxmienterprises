@@ -1,0 +1,6 @@
+{
+  "name": "Mahalaxmi Enterprises",
+  "description": "Modern corporate portal for Mahalaxmi Enterprises providing enterprise operations and professional industrial support solutions in Pune, Maharashtra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
