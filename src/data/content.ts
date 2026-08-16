@@ -3,7 +3,7 @@ import { ServiceItem, IndustryItem, TestimonialItem, WhyUsPoint } from '../types
 export const COMPANY_INFO = {
   name: 'Mahalaxmi Enterprises',
   tagline: 'Precision Operational Support & Enterprise Solutions',
-  subheading: 'Driving peak operational efficiency with structured management, end-to-end industrial support, and uncompromising regulatory compliance.',
+  subheading: 'Driving peak operational efficiency with structured management, end-to-end industrial support, and uncompromising quality standards.',
   email: 'hr@mahalaxmienterprises.online',
   phone: '+91 98810 54321',
   address: 'H No 576, Dehugaon, Dehu, Pune, Maharashtra 412109',
@@ -15,7 +15,7 @@ export const COMPANY_INFO = {
 };
 
 export const STATS = [
-  { value: '100%', label: 'Statutory Compliance' },
+  { value: '100%', label: 'Operational Quality' },
   { value: '45+', label: 'Enterprise Clients' },
   { value: '99.4%', label: 'On-Time SLA Delivery' },
   { value: '24/7', label: 'Dedicated Support' },
@@ -170,11 +170,11 @@ export const SERVICES: ServiceItem[] = [
 
 export const WHY_CHOOSE_US: WhyUsPoint[] = [
   {
-    id: 'statutory-compliance',
-    title: '100% Statutory & Regulatory Compliance',
-    description: 'We adhere strictly to all labor laws, ESIC, PF, GST, Factory Act guidelines, and state regulations, ensuring zero legal liability for your enterprise.',
+    id: 'operational-excellence',
+    title: 'Standardized Operations & Governance',
+    description: 'We adhere strictly to established operational procedures, workplace safety frameworks, and quality management protocols for seamless execution.',
     stat: '100%',
-    statLabel: 'Compliant Audits',
+    statLabel: 'Standard Audits',
     iconName: 'ShieldCheck',
   },
   {
@@ -242,7 +242,7 @@ export const INDUSTRIES: IndustryItem[] = [
     description: 'Cleanroom facility maintenance, secondary packaging verification, temperature-controlled transit logging, and GMP compliance.',
     iconName: 'Stethoscope',
     focusAreas: ['GMP Cleanroom Maintenance', 'Batch Record Verification', 'Secondary Label & Packaging', 'Sterile Area Protocols'],
-    caseStudyHighlight: 'Passed 14 consecutive cleanroom and statutory audit rounds with pristine compliance scoring.',
+    caseStudyHighlight: 'Passed 14 consecutive cleanroom quality audit rounds with pristine operational scoring.',
   },
   {
     id: 'fmcg-retail',

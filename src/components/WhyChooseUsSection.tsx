@@ -13,7 +13,7 @@ export const WhyChooseUsSection: React.FC = () => {
     {
       step: '02',
       title: 'Custom SOP Formulation',
-      description: 'Formulation of tailored standard operating procedures and statutory compliance blueprints.',
+      description: 'Formulation of tailored standard operating procedures and quality management blueprints.',
     },
     {
       step: '03',
@@ -23,7 +23,7 @@ export const WhyChooseUsSection: React.FC = () => {
     {
       step: '04',
       title: 'Real-Time KPI Auditing',
-      description: 'Continuous performance tracking, shift transition audits, and monthly statutory reconciliation.',
+      description: 'Continuous performance tracking, shift transition audits, and monthly operational reconciliation.',
     },
   ];
 
